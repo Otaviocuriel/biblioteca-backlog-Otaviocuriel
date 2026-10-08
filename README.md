@@ -1,13 +1,15 @@
 # Biblioteca Comunitária Saber Livre — Backlog Ágil
 
-Backlog inicial da atividade de Gestão Ágil de Projetos de Software. O planejamento está no [GitHub Project público](https://github.com/users/Otaviocuriel/projects/2).
+Este repositório apresenta o backlog inicial da atividade de Gestão Ágil de Projetos de Software. O planejamento está disponível no [GitHub Project público](https://github.com/users/Otaviocuriel/projects/2).
 
 ## Acesso rápido
 
-- [Quadro da Sprint 1](https://github.com/users/Otaviocuriel/projects/2/views/1): cinco estórias, 18 pontos, agrupadas por Status.
-- [Backlog por épico](https://github.com/users/Otaviocuriel/projects/2/views/2): tabela agrupada pela issue pai, com Sprint, Estimativa e Prioridade.
-- [Todas as issues](https://github.com/Otaviocuriel/biblioteca-backlog-Otaviocuriel/issues): 7 épicos e 22 estórias vinculadas como sub-issues.
+- [Quadro da Sprint 1](https://github.com/users/Otaviocuriel/projects/2/views/1): contém cinco histórias de usuário, totalizando 18 pontos, organizadas por status.
+- [Backlog por épico](https://github.com/users/Otaviocuriel/projects/2/views/2): apresenta uma tabela agrupada pelas issues principais, com informações sobre sprint, estimativa e prioridade.
+- [Todas as issues](https://github.com/Otaviocuriel/biblioteca-backlog-Otaviocuriel/issues): reúne 7 épicos e 22 histórias de usuário vinculadas como sub-issues.
 
-A meta da Sprint 1, a capacidade assumida e a justificativa do MVP estão no README do Project. As issues incluem critérios de aceite em Dado / Quando / Então; quatro estórias têm checklists de tarefas.
+A meta da Sprint 1, a capacidade estimada da equipe e a justificativa do Produto Mínimo Viável (MVP) estão documentadas no README do projeto.
 
-Este repositório contém o planejamento do produto, não a implementação do sistema.
+As issues incluem critérios de aceitação estruturados no formato **Dado / Quando / Então**, e quatro histórias de usuário possuem listas de verificação de tarefas.
+
+**Este repositório contém exclusivamente o planejamento do produto, não a implementação do sistema.**
